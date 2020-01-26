@@ -3,7 +3,7 @@ Here is code notebook for class 3. You can practice it.
 ## Assignment
 Your first assignment is to write code for list operations
 
-### Indexing
+### 1. Indexing
 Write code for retriving values from list by indexing and `print` a statement message for given lists
 ```
 # Example 1
@@ -23,7 +23,7 @@ Thanks'
 **hint**: Use `list indexing` and `string format` methods
 
 
-### Slicing
+### 2. Slicing
 ```
 You have a list of cities given as follows. Use positive and negative slicing methods to print out following outputs:
 cities = ["Faisalabad", "Lahore", "Islamabad", "Peshawar", "Quetta", "Sahiwal", "Rawalpindi", "Sialkot"]
@@ -39,7 +39,7 @@ Outputs:
 2. ['Peshawar', 'Quetta', 'Sahiwal', 'Rawalpindi', 'Sialkot']
 ```
 
-### Update Lists
+### 3. Update Lists
 You have a list of student information. You need to update it for following statements
 ```
 studentData = ["Ali Raza", 22, 91.24, "Computer Science", 5, "University of Agriculture"]
@@ -71,3 +71,35 @@ Remove using `pop` method
 2. value at 3rd index
 ```
 
+### 4. Multidimensional list tasks
+You have given data of an employee
+```python
+employeeData = [["Ali", 35000, "Software Engineer"],
+				["Talha", 55000, "Product Manager"],
+				["Nasir", 79000, "Computer Engineer"],
+				["Khalid", 44000, "DBA"]]
+```
+#### For Loop
+**Tasks**
+```
+1. Print name of employees with salaray greater than 50000.
+2. Calculate total salary of all employees.
+```
+#### List update tasks
+```
+1. Change salary of nasir from 79000 to 90000 and designation to "Product Manager"
+2. Change salary of Khalid to 50000
+```
+### 5. Login User
+You have given some users data. You have to write a script to check if username and password are correct. If `username` and `password` are correct. Then you have to check if email is verified or not. If it is verified then print `Login Succeed` else print `Email not verified`. If username or password are incorrect you have to print `Incorrect Login details`
+```python
+# Data 1
+username = "faizan1214"
+password = "qwerty"
+emailVerified = False
+
+# Data 2
+username = "faizan1214"
+password = "qwerty"
+emailVerified = True
+```
