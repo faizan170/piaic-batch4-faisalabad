@@ -10,7 +10,7 @@ Write code for retriving values from list by indexing and `print` a statement me
 employee_data = ['Ali', 125000, 'Google', 5]
 ```
 **output:** 'Ali is working in Google for 5 years and his salary is 125000'
-```
+```python
 # Example 2
 studentData = ['Ahmed', 'Bilal', 'Government College University', 'Computer Science', 'BS', 50000,
 				'28 Januray 2020', '05 February 2020']
