@@ -5,7 +5,7 @@ Your first assignment is to write code for list operations
 
 ### 1. Indexing
 Write code for retriving values from list by indexing and `print` a statement message for given lists
-```
+```python
 # Example 1
 employee_data = ['Ali', 125000, 'Google', 5]
 output: 'Ali is working in Google for 5 years and his salary is 125000'
@@ -24,10 +24,11 @@ Thanks'
 
 
 ### 2. Slicing
-```
 You have a list of cities given as follows. Use positive and negative slicing methods to print out following outputs:
+```python
 cities = ["Faisalabad", "Lahore", "Islamabad", "Peshawar", "Quetta", "Sahiwal", "Rawalpindi", "Sialkot"]
-
+```
+```
 Outputs:
 (For positive slicing)
 1. ["Faisalabad", "Lahore", "Islamabad", "Peshawar"]
@@ -41,7 +42,7 @@ Outputs:
 
 ### 3. Update Lists
 You have a list of student information. You need to update it for following statements
-```
+```python
 studentData = ["Ali Raza", 22, 91.24, "Computer Science", 5, "University of Agriculture"]
 ```
 Add values to this list using `append`
