@@ -9,20 +9,20 @@ Write code for retriving values from list by indexing and `print` a statement me
 # Example 1
 employee_data = ['Ali', 125000, 'Google', 5]
 ```
->>> output: 'Ali is working in Google for 5 years and his salary is 125000'
+**output:** 'Ali is working in Google for 5 years and his salary is 125000'
 ```
 # Example 2
 studentData = ['Ahmed', 'Bilal', 'Government College University', 'Computer Science', 'BS', 50000,
 				'28 Januray 2020', '05 February 2020']
 ```
-
->>> output:
->>> 'Hello Ahmed Bilal,
->>> Your application is accepted for admission in "BS Computer Science" in Government College University.
->>> You have to submit fee 50000 before 28 January 2020.
->>> Your classes will start from 05 February 2020.
->>> Thanks'
-
+**output:
+```
+'Hello Ahmed Bilal,
+Your application is accepted for admission in "BS Computer Science" in Government College University.
+You have to submit fee 50000 before 28 January 2020.
+Your classes will start from 05 February 2020.
+Thanks'
+```
 **hint**: Use `list indexing` and `string format` methods
 
 
