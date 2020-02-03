@@ -15,7 +15,7 @@ employee_data = ['Ali', 125000, 'Google', 5]
 studentData = ['Ahmed', 'Bilal', 'Government College University', 'Computer Science', 'BS', 50000,
 				'28 Januray 2020', '05 February 2020']
 ```
-**output:
+**output:**
 ```
 'Hello Ahmed Bilal,
 Your application is accepted for admission in "BS Computer Science" in Government College University.
