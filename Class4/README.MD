@@ -101,7 +101,7 @@ And ouput should be as follows.
 ```
 And second output should be like
 ```
-5 x 1 = 5	  6 x 1 = 6	    7 x 1 = 7	    8 x 1 = 8	    9 x 1 = 9	    10 x 1 = 10	  
+5 x 1 = 5	  6 x 1 = 6	   7 x 1 = 7	   8 x 1 = 8	   9 x 1 = 9	   10 x 1 = 10	  
 5 x 2 = 10	  6 x 2 = 12	  7 x 2 = 14	  8 x 2 = 16	  9 x 2 = 18	  10 x 2 = 20	  
 5 x 3 = 15	  6 x 3 = 18	  7 x 3 = 21	  8 x 3 = 24	  9 x 3 = 27	  10 x 3 = 30	  
 5 x 4 = 20	  6 x 4 = 24	  7 x 4 = 28	  8 x 4 = 32	  9 x 4 = 36	  10 x 4 = 40	  
