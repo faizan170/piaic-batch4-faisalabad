@@ -1,9 +1,12 @@
 ## Class for Week 3 of Python
-Here is code notebook for class 3. You can practice it.
+Here is code notebook for class 3. You can practice it. `You have to submit your assignment on this google forms url`.
+
+> https://forms.gle/upuHnKaoFkhxoikb8
+
 ## Assignment 1
 Your first assignment is to write code to get input from user and store in dictionary and then store that dictionary in list.
 Here is the required input.
-```
+```python
 [
     {"name" : "Hamza Ali",
      "age"  : 25,
