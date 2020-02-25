@@ -2,7 +2,7 @@
 Here is classwork assignment for class 6. Here is list of topics for this class.
 ### Submit of this url:
 
-Url will be shared soon
+https://forms.gle/9wCgbrSzW8eKVvg9A
 
 ## Topics
 
